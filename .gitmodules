@@ -1,0 +1,6 @@
+[submodule "hc-beauty-admin"]
+	path = hc-beauty-admin
+	url = https://github.com/haochtech/hc-beauty-admin.git
+[submodule "hc-beauty-wx"]
+	path = hc-beauty-wx
+	url = https://github.com/haochtech/hc-beauty-wx.git
